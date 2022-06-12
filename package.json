@@ -1,0 +1,19 @@
+{
+  "name": "streak-counter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vanshuhassija/streak-counter.git",
+  "author": "vanshuhassija <vanshuhassija@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.1",
+    "@types/jsdom": "^16.2.14",
+    "jest": "^28.1.1",
+    "jsdom": "^19.0.0",
+    "ts-jest": "^28.0.4",
+    "typescript": "^4.7.3"
+  }
+}
