@@ -6,7 +6,7 @@ This is a basic streak counter - inspired by Duolingo - written in TypeScript an
 
 ```shell
 yarn add @vanshuhassija/streak-counter
-npm install @jsjoeio/streak-counter
+npm install @vanshuhassija/streak-counter
 ```
 
 ## Usage

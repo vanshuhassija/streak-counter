@@ -23,6 +23,7 @@ export default function streakCounter(storage: Storage, date: Date): Streak {
           currentCount: streak.currentCount + 1,
           lastLoginDate: formattedDate(date),
         });
+        updateStreak(storage, updatedStreak);
         return updatedStreak;
       } else if (state === "reset") {
         const updatedStreak = buildStreak(date, {
