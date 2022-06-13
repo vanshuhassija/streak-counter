@@ -23,4 +23,4 @@ const streak = streakCounter(localStorage, today)
 // }
 ```
 
-[![Edit Sweet Streak](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/sweet-streak-09i6on?
+[![Edit Sweet Streak](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/sweet-streak-09i6on?)
